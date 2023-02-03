@@ -1,0 +1,6 @@
+
+20: 24: 47: game start: Александра count candies = 50 lost
+20: 25: 56: game start: Alexandr count candies = 100 lost
+20: 27: 22: game start: Alexandr count candies = 100 lost
+20: 37: 36: game start: Alexandr count candies = 100 lost
+20: 37: 55: game start: Alexandr
